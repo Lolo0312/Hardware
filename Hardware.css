@@ -1,11 +1,11 @@
 body {
-    color:black;
+    color:White;
     background:url(im.jpg) no-repeat center fixed;
     background-size: cover;
     margin:0;
     padding:0;
     }
-    
+
 *{
     margin: 0px;
     padding: 0px;
