@@ -1,6 +1,6 @@
 body {
-    color:rgb(255, 253, 253);
-    background:url(im.jpg) no-repeat center fixed;
+    color:rgb(255, 1, 1);
+    background:url(../images/im.jpg) no-repeat center fixed;
     background-size: cover;
     margin:0;
     padding:0;
@@ -75,5 +75,4 @@ nav > ul li:hover .sous{
 
 .conteneur{
   margin: 50px 20px;
-  height: 1500px;
 }
